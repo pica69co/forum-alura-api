@@ -2,10 +2,10 @@
 ##   Challenge - Foro Alura
 
 <p align="center">
-  <img src="imagenes/foro alura.png" width="200px" alt="Logo">
+  <img src="forum-alura-api/imagenes/foro alura.png" width="200px" alt="Logo">
 </p>
 <div align="center">
- <img  src="/imagenes/img.png" width="500px" alt="Logo">
+ <img  src="forum-alura-api/imagenes/img.png" width="500px" alt="Logo">
 </div>
 <hr>
 
